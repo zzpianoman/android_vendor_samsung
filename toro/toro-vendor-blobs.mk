@@ -24,6 +24,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/toro/proprietary/vendor/lib/libims_jni.so:system/vendor/lib/libims_jni.so \
     vendor/samsung/toro/proprietary/vendor/lib/libsec-ril_lte.so:system/vendor/lib/libsec-ril_lte.so \
     vendor/samsung/toro/proprietary/vendor/lib/hw/gps.omap4.so:system/vendor/lib/hw/gps.omap4.so \
-    vendor/samsung/toro/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/toro/proprietary/vendor/firmware/bcm4330.hcd:system/vendor/firmware/bcm4330.hcd 
 
